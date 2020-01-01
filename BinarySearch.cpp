@@ -45,7 +45,7 @@ int main()
 	midd = 0;
 	flag = true;
 
-	cout << "Введите значение для поиска ";
+	cout << "Введите значение для поиска: ";
 	cin >> key;
 
 	if (key >= arr[left] && key <= arr[right])
